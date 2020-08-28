@@ -1,0 +1,9 @@
+my_fullname = 'Nguyen Thi Bac'
+my_nickname = 'Mon'
+my_age = 22
+my_height = 159
+my_weight = 43
+my_eyes_color = 'black'
+my_hair_color = 'black'
+my_job = 'Telecomunication and Electronic'
+my_interests = 'movie, music, read comic and novel and shopping :v'
