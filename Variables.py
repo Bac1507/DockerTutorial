@@ -2,6 +2,8 @@ cars = 100
 drivers = 30
 passengers = 150
 cars_driver = drivers #moi xe mot lai xe
+space_in_a_car = 4
+capacity = space_in_a_car * cars_driver
 cars_not_driver = cars - drivers
 passengers_per_car = passengers / cars_driver
 
